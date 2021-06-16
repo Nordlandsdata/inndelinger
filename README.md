@@ -1,2 +1,1 @@
-# inndelinger 
-# filer til bruk i Power BI
+Filer til bruk i Power BI
