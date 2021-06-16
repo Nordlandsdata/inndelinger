@@ -1,1 +1,1 @@
-Filer til bruk i Power BI
+Inndelingsgrupper til Power BI-rapporter
