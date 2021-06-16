@@ -1,2 +1,2 @@
-# inndelinger_regioner
-Inndelinger av regioner i Nordland (Interkommunale råd)
+# inndelinger 
+# filer til bruk i Power BI
